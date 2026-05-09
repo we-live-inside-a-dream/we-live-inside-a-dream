@@ -59,8 +59,8 @@ Full-stack developer based in **Calgary, AB** — I build web apps and AI-powere
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=we-live-inside-a-dream&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="Reza's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=we-live-inside-a-dream&layout=compact&hide_border=true&theme=default" height="160" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=we-live-inside-a-dream&hide_border=true" height="160" alt="Reza's GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=we-live-inside-a-dream&theme=default" height="160" alt="Top languages" />
 </p>
 
 ---
